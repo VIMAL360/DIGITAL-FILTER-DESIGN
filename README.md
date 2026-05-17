@@ -54,3 +54,5 @@ The design can serve as a beginner-friendly project for students learning FPGA d
 The project was created purely for educational and learning purposes and can be extended further by adding FIR filters, IIR filters, coefficient-based filtering, higher-order filters, and advanced DSP operations.
 
 OUTPUT:
+
+<img width="1592" height="1002" alt="Image" src="https://github.com/user-attachments/assets/cb2c346d-5e8d-481e-a4b2-e872608414d8" />
